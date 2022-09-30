@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "图书大类",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-tag": "/uni_modules/uni-tag/components/uni-tag/uni-tag",
+    "uni-transition": "/uni_modules/uni-transition/components/uni-transition/uni-transition"
+  }
+}

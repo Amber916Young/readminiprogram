@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "图书详情",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "default",
+  "usingComponents": {
+    "uni-breadcrumb": "/uni_modules/uni-breadcrumb/components/uni-breadcrumb/uni-breadcrumb",
+    "uni-breadcrumb-item": "/uni_modules/uni-breadcrumb/components/uni-breadcrumb-item/uni-breadcrumb-item",
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-tag": "/uni_modules/uni-tag/components/uni-tag/uni-tag",
+    "uni-transition": "/uni_modules/uni-transition/components/uni-transition/uni-transition",
+    "uni-fab": "/uni_modules/uni-fab/components/uni-fab/uni-fab",
+    "uni-title": "/uni_modules/uni-title/components/uni-title/uni-title",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

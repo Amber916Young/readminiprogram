@@ -1,0 +1,40 @@
+.image-list{
+	display: flex;
+}
+.image-title{
+	text-align: center;
+	color: black;
+	font-weight: 600;
+}
+.image-content image{
+	width: 200rpx; 
+	height: 250rpx;
+	background-color: #eeeeee;
+}
+.image-item{
+	width: 200rpx;
+	margin: 10rpx;
+	border-radius: 5px;
+}
+.novelList{
+	margin: auto;
+}
+.container {
+	/* display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap; */
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 100rpx;
+	margin-left: auto;
+	margin-right: auto;
+}
+.text-area {
+	display: flex;
+	justify-content: center;
+}
+

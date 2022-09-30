@@ -1,0 +1,51 @@
+
+.arrow_container{
+	position: fixed;
+	top: 43%;
+	width: 100%;
+}
+uni-text{
+	font-size: 36rpx;
+}
+page{
+	height: 100%;
+	width: 100%;
+}
+silder{
+	margin-bottom:100rpx
+}
+.popup-content{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	height: 230rpx;
+	padding: 20rpx 30rpx;
+	background-color:  #292c33;
+}
+.popup-content  .card{
+	width: 130rpx;
+	height: 130rpx;
+	text-align: center;
+	padding: 20rpx;
+}
+.popup-content .text{
+	color: white;
+}
+.closeIcon{
+	display: flex;
+	justify-content: flex-end;
+}
+.container{
+	width: 100%;
+	height: auto;
+	position: relative;
+	background-color:  #C7EDCC;
+}
+.container .content{
+	color: black;
+	margin: 0 20rpx;
+	overflow: hidden;
+	padding-top: 30rpx;
+	padding-bottom: 30rpx;
+}
+
